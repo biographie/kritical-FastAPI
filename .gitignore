@@ -1,6 +1,7 @@
-echo '__pycache__/
+.venv/
+venv/
+__pycache__/
 *.pyc
 .env
 model_cache_dir/
-venv/
-.DS_Store' > .gitignore
+.DS_Store
