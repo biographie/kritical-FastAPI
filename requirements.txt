@@ -1,7 +1,8 @@
-echo 'fastapi
+fastapi
 uvicorn
 fastembed
 voyageai
 transformers
 langchain
-pydantic' > requirements.txt
+pydantic
+python-dotenv
