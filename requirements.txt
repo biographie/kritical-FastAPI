@@ -1,0 +1,7 @@
+echo 'fastapi
+uvicorn
+fastembed
+voyageai
+transformers
+langchain
+pydantic' > requirements.txt
